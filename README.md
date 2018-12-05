@@ -11,7 +11,7 @@ the error message. Namely to run npm ls eslint which showed me in the dependency
 instances were. I removed one of them (the one indicated by npm ls that was not needed) and that
 seems to have resolved the issue. 
 
-- some simple casing changes in file names. 
+- some simple casing changes in file names: 
 In the tutorial, some files are named with camel case (e.g. "simpleAction.js") but are import as
 "SimpleAction"; maybe the casing was resolved in some other version of react, or maybe its a setting. 
 Anyways, I just changed the names to cameCase. 
