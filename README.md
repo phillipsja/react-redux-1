@@ -17,8 +17,7 @@ seems to have resolved the issue.
 "SimpleAction"; maybe the casing was resolved in some other version of react, or maybe its a setting. 
 Anyways, I just changed the names to cameCase. 
 
-This little app is based on this article: 
-https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
+This little app is based on this [medium article](https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8)
 
 node version on my machine is 8.10.0
 yarn version on my machine is 1.3.2
